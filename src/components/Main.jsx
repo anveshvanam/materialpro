@@ -108,7 +108,7 @@ const blogsData = [
 
 const SalesChart = () => {
   return (
-    <div className="flex flex-col w-full pl-20 outline-dashed">
+    <div className="flex flex-col w-full pl-20">
       <div className="flex w-full">
         <div
           style={{
